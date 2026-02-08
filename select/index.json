@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "crash",
+  "base_artist": "菅原 圭",
+  "createdAt": "2026-02-08T11:13:44.378112Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Crash My Party",
+      "artist": "Luke Bryan",
+      "has_synced": true,
+      "path": "select/01_Crash_My_Party_Luke_Bryan.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Crash and Burn",
+      "artist": "Thomas Rhett",
+      "has_synced": true,
+      "path": "select/02_Crash_and_Burn_Thomas_Rhett.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "The Day (Feat. Blu, Phonte & Patty Crash)",
+      "artist": "The Roots",
+      "has_synced": true,
+      "path": "select/03_The_Day_(Feat._Blu,_Phonte_&_Patty_Crash)_The_Roots.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Crash Bandicoot",
+      "artist": "Yung Lean",
+      "has_synced": true,
+      "path": "select/04_Crash_Bandicoot_Yung_Lean.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Crash Bandicoot",
+      "artist": "Yung Lean",
+      "has_synced": true,
+      "path": "select/05_Crash_Bandicoot_Yung_Lean.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Threnody to the Car Crash Hearts",
+      "artist": "MISOGI",
+      "has_synced": true,
+      "path": "select/06_Threnody_to_the_Car_Crash_Hearts_MISOGI.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Crash Years",
+      "artist": "The New Pornographers",
+      "has_synced": true,
+      "path": "select/07_Crash_Years_The_New_Pornographers.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Crash",
+      "artist": "Lou Bega",
+      "has_synced": false,
+      "path": "select/08_Crash_Lou_Bega.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Crash",
+      "artist": "Charli XCX",
+      "has_synced": true,
+      "path": "select/09_Crash_Charli_XCX.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "crash the party",
+      "artist": "Roddy Ricch",
+      "has_synced": true,
+      "path": "select/10_crash_the_party_Roddy_Ricch.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Crash and Burn",
+      "artist": "The Bangles",
+      "has_synced": true,
+      "path": "select/11_Crash_and_Burn_The_Bangles.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Crash Dance",
+      "artist": "Yello",
+      "has_synced": false,
+      "path": "select/12_Crash_Dance_Yello.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Crash Into Me (Live) [Remaster]",
+      "artist": "Stevie Nicks",
+      "has_synced": false,
+      "path": "select/13_Crash_Into_Me_(Live)_[Remaster]_Stevie_Nicks.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Crash Into Me",
+      "artist": "Stevie Nicks",
+      "has_synced": false,
+      "path": "select/14_Crash_Into_Me_Stevie_Nicks.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Crash Sight",
+      "artist": "Adorable",
+      "has_synced": false,
+      "path": "select/15_Crash_Sight_Adorable.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Crash and Burn",
+      "artist": "4 Strings",
+      "has_synced": true,
+      "path": "select/16_Crash_and_Burn_4_Strings.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Car Crash",
+      "artist": "Tricky",
+      "has_synced": true,
+      "path": "select/17_Car_Crash_Tricky.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Crash on the Levee",
+      "artist": "Bob Dylan",
+      "has_synced": true,
+      "path": "select/18_Crash_on_the_Levee_Bob_Dylan.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "crash",
+      "artist": "菅原 圭",
+      "has_synced": false,
+      "path": "select/pl_01_crash_菅原_圭.txt"
+    }
+  ]
+}
